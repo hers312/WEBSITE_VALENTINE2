@@ -6,14 +6,15 @@ export default function Item5() {
 
     // List of qualities to display
     const qualities = [
-        "Honesty",
-        "Kindness",
-        "Loyalty",
-        "Creativity",
-        "Passion",
-        "Resilience",
-        "Empathy",
-        "Curiosity",
+        "Piekna",
+        "Usmiechnieta",
+        "Inteligentna",
+        "Ciekawska",
+        "Kreatywna",
+        "Empatyczna",
+        "Komunikatywna",
+        "Czula",
+        "Wyjatkowa",
     ];
 
     return (
